@@ -4,7 +4,7 @@ An executive-level **Retrieval-Augmented Generation (RAG)** application for anal
 
 The platform enables users to ask market-level questions across expert transcripts and receive **evidence-backed answers with source attribution, timestamps, and verbatim supporting quotes**.
 
-🌐 **Live Demo:** [View Deployed App]([https://your-streamlit-app-url.streamlit.app](https://llm-hasamex-expert-intelligence-tanp2612.streamlit.app/))
+🌐 **Live Demo:** [View Deployed App]([https://llm-hasamex-expert-intelligence-tanp2612.streamlit.app/])
 
 ---
 
